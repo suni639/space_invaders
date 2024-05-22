@@ -1,6 +1,6 @@
 # Space Invaders Game
 
-This is a simple implementation of the classic Space Invaders game using Python and Pygame.
+My first time coding a game. This is a simple implementation of the classic Space Invaders game using Python and Pygame.
 
 ## Table of Contents
 
@@ -14,13 +14,13 @@ This is a simple implementation of the classic Space Invaders game using Python 
 
 ## Gameplay
 
-The player controls a spaceship that can move left and right at the bottom of the screen. The goal is to shoot and destroy all the enemies before they reach the bottom. If an enemy reaches the bottom, the game is over. If all enemies are destroyed, the player wins.
+The player controls a spaceship that can move left and right at the bottom of the screen. Like the classic game, the goal is to shoot and destroy all the enemies before they reach the bottom. If an enemy reaches the bottom, the game is over. If all enemies are destroyed, the player wins.
 
 ## Installation
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/space-invaders.git
+    git clone https://github.com/suni639/space-invaders.git
     cd space-invaders
     ```
 
@@ -52,16 +52,6 @@ The player controls a spaceship that can move left and right at the bottom of th
 - Simple and intuitive controls
 - Restart the game after a game over or win
 - Score tracking
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
