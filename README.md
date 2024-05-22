@@ -39,7 +39,7 @@ The player controls a spaceship that can move left and right at the bottom of th
 
 - Use the **left arrow key** (`←`) to move the spaceship left.
 - Use the **right arrow key** (`→`) to move the spaceship right.
-- Press the **spacebar** (` `) to shoot bullets.
+- Press the **spacebar** (`spacebar`) to shoot bullets.
 - Press **R** to restart the game after a game over or when you win.
 
 ## Screenshots
