@@ -44,7 +44,7 @@ The player controls a spaceship that can move left and right at the bottom of th
 
 ## Screenshots
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](assets/screenshot.png)
 
 ## Features
 
