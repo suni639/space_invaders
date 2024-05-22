@@ -117,10 +117,10 @@ while running:
                     enemy.active = False
                 if enemy.y > 475:
                     game_over = True
-                enemy.draw()
+                enemy.draw(screen)
 
-        bullet.draw()
-        player.draw()
+        bullet.draw(screen)
+        player.draw(screen)
         show_score(textX, textY)
 
         if all(not enemy.active for enemy in enemies):

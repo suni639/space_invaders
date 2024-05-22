@@ -3,7 +3,7 @@ import pygame
 class Enemy:
     def __init__(self, x, y):
         self.image = pygame.image.load('assets/enemy.png')
-        self.image = pygame.transform.scale(self.image, (30, 30))
+        self.image = pygame.transform.scale(self.image, (60, 60))
         self.x = x
         self.y = y
         self.x_change = 0.5
