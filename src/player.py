@@ -3,7 +3,7 @@ import pygame
 class Player:
     def __init__(self):
         self.image = pygame.image.load('assets/spaceship.png')
-        self.image = pygame.transform.scale(self.image, (60, 60))
+        self.image = pygame.transform.scale(self.image, (70, 70))
         self.x = 370
         self.y = 500
         self.x_change = 0

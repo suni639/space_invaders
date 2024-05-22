@@ -2,8 +2,8 @@ import pygame
 
 class Bullet:
     def __init__(self):
-        self.image = pygame.image.load('assets/bullet.png')
-        self.image = pygame.transform.scale(self.image, (80, 80))
+        self.image = pygame.image.load('assets/bullet_alt.png')
+        self.image = pygame.transform.scale(self.image, (50, 50))
         self.x = 0
         self.y = 500
         self.y_change = 10
