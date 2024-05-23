@@ -32,7 +32,7 @@ The player controls a spaceship that can move left and right at the bottom of th
 
 3. **Run the game:**
     ```sh
-    python main.py
+    python src/main.py
     ```
 
 ## How to Play
